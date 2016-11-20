@@ -63,3 +63,4 @@ Pada bab ini berisi implementasi sistem yang menjelaskan tentang implementasi ha
 BAB V KESIMPULAN DAN SARAN<br>
 Pada bab ini berisi kesimpulan dari implementasi sistem yang telah dibangun dan mengajukan saran sebagai pengembangan dan perawatan sistem selanjutnya untuk lebih menyempurnakan sistem di masa yang akan datang.
 <br> 
+</p>
