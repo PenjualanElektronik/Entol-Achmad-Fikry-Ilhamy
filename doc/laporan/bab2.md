@@ -207,6 +207,9 @@ b.	Perancangan rinci
 Sistem atau daur hidup pengembangan system tampak jika system yang sudah dikembangkan dan dioperasikan tidak dapat dirawat lagi, sehingga dibutuhkan pengembangan system kembali yang tampak digambarkan seperti gambar berikut :
 <br>
  
+<p align="center"> 
+<img src="../../img/bab2.jpg" width="400px"> 
+</p>
 
 Gambar 2.1 Siklus hidup pengembangan sistem
 <br>
